@@ -1,2 +1,2 @@
 # pull-request
-Creating this repository to explore features related to Pull Request in Github
+Exploring pull requests and forking in github
